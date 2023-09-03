@@ -18,5 +18,6 @@ ZCZC W00 60 L05 preparing for quiz
 ZCZC W00 20 L41 filling mylog.txt over the week
 ZCZC W00 3200 L84 sleeping and napping
 ZCZC W00 100 L86 cleaning my room
+ZCZC W00 200 L82 reading OSC10 chapter 1
 
 
