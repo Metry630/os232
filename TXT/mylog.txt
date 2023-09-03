@@ -13,5 +13,10 @@ ZCZC W00 5 L14 Assignment #04
 ZCZC W00 30 L15 Assignment #05
 ZCZC W00 5 L16 Assignment #06
 ZCZC W00 120 L70 Preparing for PBP lab
+ZCZC W00 270 L88 Going to the gym and swimming
+ZCZC W00 60 L05 preparing for quiz
+ZCZC W00 20 L41 filling mylog.txt over the week
+ZCZC W00 3200 L84 sleeping and napping
+ZCZC W00 100 L86 cleaning my room
 
 
