@@ -10,8 +10,6 @@ ZCZC W00 5 L11 Assignment #01
 ZCZC W00 5 L12 Assignment #02
 ZCZC W00 5 L13 Assignment #03
 ZCZC W00 5 L14 Assignment #04
-ZCZC W00 30 L15 Assignment #05
-ZCZC W00 5 L16 Assignment #06
 ZCZC W00 120 L70 Preparing for PBP lab
 ZCZC W00 270 L88 Going to the gym and swimming
 ZCZC W00 60 L05 preparing for quiz
@@ -19,5 +17,17 @@ ZCZC W00 20 L41 filling mylog.txt over the week
 ZCZC W00 3200 L84 sleeping and napping
 ZCZC W00 100 L86 cleaning my room
 ZCZC W00 200 L82 reading OSC10 chapter 1
+ZCZC W01 120 L11 trying to do assignment 1 on my windows laptop and failing, trying it locally on my M1 mac and failing
+ZCZC W01 60 L11 finishing Assignment #01 using GCP after emailing lecturer
+ZCZC W01 60 L12 reading some texts in Assignment #02
+ZCZC W01 45 L13 finding various links for Assignment #03
+ZCZC W01 20 L14 Assignment #04
+ZCZC W01 200 L88 Going to the gym and swimming
+ZCZC W01 3600 L84 sleeping and napping
+ZCZC W01 60 L86 cleaning my room
+ZCZC W01 120 L08 asking friends for help on OS assignment, emailing lecturer about access to GCP
+
+
+
 
 
