@@ -26,6 +26,14 @@ ZCZC W01 200 L88 Going to the gym and swimming
 ZCZC W01 3600 L84 sleeping and napping
 ZCZC W01 60 L86 cleaning my room
 ZCZC W01 120 L08 asking friends for help on OS assignment, emailing lecturer about access to GCP
+ZCZC W02 60 L11 Assignment #01
+ZCZC W02 300 L12 Assignment #02
+ZCZC W02 20 L13 Assignment #03
+ZCZC W02 15 L14 Assignment #04
+ZCZC W02 30 L15 Assignment #05
+ZCZC W02 20 L16 Assignment #06
+ZCZC W02 4500 L99 preparing and going through GEMASTIK
+
 
 
 
