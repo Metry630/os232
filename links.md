@@ -61,6 +61,42 @@ permalink: LINKS/
 
 18. [Getting Started with Nano](https://www.youtube.com/watch?v=fJTPjWuyrIY&t=24s) <br>
    One of our OS Teaching Assistants recommends using Nano over Vim. If you're curious, click on the link above to watch a brief 1-minute video introduction to Nano.
-
+   
 19. [Quick Introduction to Vim](https://www.youtube.com/watch?v=0zSSLpcNOwA) <br>
    For those looking to quickly learn Vim, here's another 1-minute video that provides an overview and introduction to Vim.
+
+## WEEK 3
+20. [Understanding the Linux File System in 1,233 Seconds](https://www.youtube.com/watch?v=A3G-3hp88mo)<br>
+   Watch a concise video explaining how the Linux File System operates. NetworkChuck emphasizes the key concept that "Everything in Linux is a File," including network configurations, CD-ROMs, hard drives, printers, and more.
+
+21. [File System Overview](https://www.scaler.com/topics/file-systems-in-os/)<br>
+   This link provides an explanation of the file system covered in Operating Systems courses. It serves as a helpful summary of the course material.
+
+22. [Demystifying Proxy Servers](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-proxy-server/)<br>
+   This article clarifies what a proxy server is and how it functions. A proxy server acts as an intermediary between clients and servers, forwarding client requests to servers and returning server responses to clients.
+
+23. [Understanding VPNs](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-vpn/)<br>
+   This article explains the concept of VPNs and their operation. VPNs are networks used to connect two separate networks, typically over a public network.
+
+24. [Exploring NAT (Network Address Translation)](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-nat/)<br>
+   This article dives into what NAT is and how it works. NAT is a technique used to modify the IP address of a host, typically done by a router.
+
+25. [Deciphering DMZ (Demilitarized Zone)](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dmz/)<br>
+   This article explains what a DMZ is and its functionality. A DMZ is a network used to connect internal and external networks, often using a public network.
+
+26. [Unveiling the World of DNS (Domain Name System)](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns/)<br>
+   This article delves into DNS and its workings. DNS is a system used to link domain names to IP addresses, often accomplished through DNS servers.
+
+27. [Understanding DNS Leaks](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns-leak/)<br>
+   This article explains DNS leaks and how they occur. A DNS leak is when a client's DNS server doesn't match the one used by a VPN, leading to requests going to the client's DNS server.
+
+28. [Demystifying DNS Spoofing](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns-spoofing/)<br>
+   This article sheds light on DNS spoofing and its mechanism. DNS spoofing occurs when a client's DNS server is altered to an unwanted server, often redirecting traffic.
+
+29. [Understanding DNS Hijacking](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns-hijacking/)<br>
+   This article explains DNS hijacking and how it works. DNS hijacking involves changing a client's DNS server to an unwanted one, typically to intercept or manipulate traffic.
+
+30. [Exploring DNS Cache Poisoning](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns-cache-poisoning/)<br>
+   This article dives into DNS cache poisoning and its operation. DNS cache poisoning involves changing a client's DNS server to an unwanted one, often for malicious purposes.
+
+
