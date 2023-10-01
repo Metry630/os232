@@ -40,7 +40,9 @@ ZCZC W03 30 L13 Assignment #03
 ZCZC W03 45 L14 Assignment #04
 ZCZC W03 200 L88 working out
 ZCZC W03 75 L08 Asking TA about using GCP
-
+ZCZC W04 60 L11 Assignment #01
+ZCZC W04 30 L12 Assignment #02
+ZCZC W04 30 L13 Assignment #03
 
 
 
