@@ -99,4 +99,32 @@ permalink: LINKS/
 30. [Exploring DNS Cache Poisoning](https://www.cloudflare.com/learning/ddos/glossary/what-is-a-dns-cache-poisoning/)<br>
    This article dives into DNS cache poisoning and its operation. DNS cache poisoning involves changing a client's DNS server to an unwanted one, often for malicious purposes.
 
+## WEEK 04
+Sure, here are reordered and reworded titles and descriptions for your links:
 
+31. [Understanding File Systems](https://www.geeksforgeeks.org/introduction-to-file-systems/)
+   Learn the fundamentals of file systems, how they operate, and the various types available. Explore file systems used in both Linux and Windows operating systems.
+
+32. [Exploring File System Basics](https://www.dummies.com/computers/operating-systems/windows-10/understanding-file-system-basics/)
+   Delve into the concepts of file systems, their functions, and the different types at your disposal. Investigate file systems utilized in both Linux and Windows environments.
+
+33. [File Systems Defined: Types and Examples](https://www.techrepublic.com/article/file-system-definition-types-and-examples/)
+   Gain insights into the definition of file systems, their workings, and the diverse range of types. This article also covers file systems used in Linux and Windows operating systems.
+
+34. [An Overview of File Systems](https://redmondmag.com/articles/2018/05/01/an-overview-of-file-systems.aspx)
+   Obtain a comprehensive overview of file systems, how they function, and the various available types. Additionally, it provides explanations of file systems used in Linux and Windows.
+
+35. [Understanding File System Fragmentation](https://www.howtogeek.com/166448/htg-explains-why-do-hard-drives-show-the-wrong-capacity-in-windows/)
+   Explore the concept of file system fragmentation, its causes, detection methods, and prevention strategies. This article also discusses file systems in Linux and Windows.
+
+36. [C Pointers Explained - Programiz](https://www.programiz.com/c-programming/c-pointers)
+   Dive into the world of C pointers through this website. It also offers an online C compiler for real-time demonstrations.
+
+37. [Exploring the Basics of File Systems](https://www.techrepublic.com/blog/apple-in-the-enterprise/the-basics-of-file-systems/)
+   Learn about file system concepts, their operations, and the variety of types available. This resource also covers file systems used in both Linux and Windows environments.
+
+38. [Mastering Pointers in C - Low Level Learning on YouTube](https://www.youtube.com/watch?v=2ybLD6_2gKM)
+   This video provides an in-depth explanation of pointers in C, offering a flowing narrative instead of code blocks. It briefly covers dynamic and static allocations.
+
+39. [Makefile Tutorial - cs.clemson.edu](https://people.cs.clemson.edu/~dhouse/courses/1070/labs/9-9/makefile-tutorial.html)
+   Explore this tutorial on creating a simple Makefile, with an emphasis on proper indentation to ensure success!
