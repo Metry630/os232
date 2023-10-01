@@ -100,7 +100,6 @@ permalink: LINKS/
    This article dives into DNS cache poisoning and its operation. DNS cache poisoning involves changing a client's DNS server to an unwanted one, often for malicious purposes.
 
 ## WEEK 04
-Sure, here are reordered and reworded titles and descriptions for your links:
 
 31. [Understanding File Systems](https://www.geeksforgeeks.org/introduction-to-file-systems/)
    Learn the fundamentals of file systems, how they operate, and the various types available. Explore file systems used in both Linux and Windows operating systems.
