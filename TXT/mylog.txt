@@ -43,7 +43,12 @@ ZCZC W03 75 L08 Asking TA about using GCP
 ZCZC W04 60 L11 Assignment #01
 ZCZC W04 30 L12 Assignment #02
 ZCZC W04 30 L13 Assignment #03
-
-
+ZCZC W05 60 L11 Assignment #01
+ZCZC W05 30 L12 Assignment #02
+ZCZC W05 30 L13 Assignment #03
+ZCZC W05 30 L14 Assignment #04
+ZCZC W05 30 L15 Assignment #05
+ZCZC W05 200 L88 Going to the gym and swimming
+ZCZC W05 4000 L84 sleeping and napping
 
 
