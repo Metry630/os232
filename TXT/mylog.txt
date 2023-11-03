@@ -50,5 +50,12 @@ ZCZC W05 30 L14 Assignment #04
 ZCZC W05 30 L15 Assignment #05
 ZCZC W05 200 L88 Going to the gym and swimming
 ZCZC W05 4000 L84 sleeping and napping
+ZCZC W00 20 L10 Assignment #00
+ZCZC W06 10 L11 Assignment #01
+ZCZC W06 10 L12 Assignment #02
+ZCZC W06 60 L13 Assignment #03
+ZCZC W06 45 L14 Assignment #04
+ZCZC W06 300 L09 PBP, MPPI, and other tasks
+
 
 
