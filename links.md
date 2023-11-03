@@ -127,3 +127,35 @@ permalink: LINKS/
 
 39. [Makefile Tutorial - cs.clemson.edu](https://people.cs.clemson.edu/~dhouse/courses/1070/labs/9-9/makefile-tutorial.html)
    Explore this tutorial on creating a simple Makefile, with an emphasis on proper indentation to ensure success!
+
+## WEEK05
+
+41. [Fundamental Memory Management in Operating Systems](https://www.geeksforgeeks.org/memory-management-in-operating-systems/)
+   This article delves into the core concepts of memory management in operating systems, covering memory usage, allocation, and administration. It also explores the file systems employed in Linux and Windows.
+
+42. [Essentials of Operating System Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm)
+   This page provides an explanation of the fundamental principles of memory management within operating systems, encompassing memory utilization, allocation, and governance. It also discusses the file systems used in Linux and Windows.
+
+43. [Memory Management Basics Unveiled](https://www.dummies.com/programming/computer-science/memory-management-basics/)
+   This page offers insights into the foundational concepts of memory management in operating systems, covering memory utilization, allocation, and administration. It also delves into the file systems utilized by Linux and Windows.
+
+44. [Utilization of Memory by Operating Systems](https://public.support.unisys.com/aseries/docs/ClearPath-MCP-20.0/86000387-514/section-000023203.html)
+   This page elucidates the fundamental concepts of memory management in operating systems, including memory usage, allocation, and governance. It also explores the file systems used in Linux and Windows.
+
+45. [Virtual Memory Explained in Operating Systems](https://www.guru99.com/virtual-memory-in-operating-system.html)
+   This page provides an explanation of the core principles of memory management in operating systems, encompassing memory utilization, allocation, and governance. It also discusses the file systems employed in Linux and Windows.
+
+46. [Comprehending Memory Management in Operating Systems](https://www.mygreatlearning.com/operating-system/tutorials/operating-system-memory-management)
+   This page offers insights into the foundational concepts of memory management in operating systems, covering memory utilization, allocation, and administration. It also delves into the file systems utilized by Linux and Windows.
+
+47. [Understanding Virtual Memory in Operating Systems](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)
+   This article explores the concept of virtual memory within the context of operating systems. It also includes visual aids to help grasp the workings of virtual memory in the operating system. This article is recommended for gaining a foundational understanding of virtual memory.
+
+48. [Cache Explained: How It Functions | Fortinet](https://www.fortinet.com/resources/cyberglossary/what-is-caching)
+   Questions like "What is caching?" and "How does caching work?" are common in computing. This article offers a concise explanation of caching and its operational principles. While it primarily focuses on web caching, the concepts are broadly applicable to caching in various contexts, making it a valuable resource for those studying platform-based programming.
+
+49. [Insight into Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)
+   This college course material provides a brief explanation of memory allocation, with a focus on using C as the intermediate language. It also includes visual aids to illustrate memory allocation and the use of pointers. This article is highly recommended for gaining a head start in understanding the concept of memory allocation.
+
+50. [Thrashing and Working Sets Demystified](https://web.stanford.edu/~ouster/cgi-bin/cs140-winter12/lecture.php?topic=thrashing)
+   These lecture notes from Stanford University highlight key aspects of thrashing in the context of memory management. They are particularly useful for preparing for weekly quizzes, offering valuable insights even though explicit answers are not provided on the same page.
