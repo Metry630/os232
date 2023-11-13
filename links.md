@@ -159,3 +159,49 @@ permalink: LINKS/
 
 50. [Thrashing and Working Sets Demystified](https://web.stanford.edu/~ouster/cgi-bin/cs140-winter12/lecture.php?topic=thrashing)
    These lecture notes from Stanford University highlight key aspects of thrashing in the context of memory management. They are particularly useful for preparing for weekly quizzes, offering valuable insights even though explicit answers are not provided on the same page.
+
+## WEEK06
+
+51. [Improving Workflow with Timer Shell: Case Studies and Success Stories](https://www.freecodecamp.org/news/improving-workflow-with-timer-shell-case-studies-and-success-stories/)
+   Discover real-world success stories and case studies showcasing how timer shell scripting enhances productivity and streamlines workflows. Explore practical examples of automation, efficient time management, and workflow optimization.
+
+52. [Creating Custom Timers with Timer Shell: A Step-by-Step Tutorial](https://www.freecodecamp.org/news/creating-custom-timers-with-timer-shell-a-step-by-step-tutorial/)
+   Learn step-by-step how to create personalized timers using timer shell scripting. This tutorial provides instructions on setting up and customizing timers for specific tasks and projects.
+
+53. [10 Useful Timer Shell Commands for Productivity and Time Management](https://www.freecodecamp.org/news/10-useful-timer-shell-commands-for-productivity-and-time-management/)
+   Boost productivity and enhance time management with ten essential timer shell commands. This article offers practical examples of each command and how to apply them in real-world scenarios.
+
+54. [Managing Multiple Timers with Timer Shell: Best Practices for Organization](https://www.freecodecamp.org/news/managing-multiple-timers-with-timer-shell-best-practices-for-organization/)
+   Explore best practices for efficiently managing multiple timers through timer shell scripting. Topics include naming conventions, project-based organization, and setting timer priorities.
+
+55. [Timer Shell Scripting: A Comprehensive Guide for Beginners](https://www.freecodecamp.org/news/timer-shell-scripting-a-comprehensive-guide-for-beginners/)
+   Begin your journey into timer shell scripting with this comprehensive guide tailored for beginners. Learn the fundamentals, including syntax, variables, and loops, and practice your skills through examples and exercises.
+
+56. [Automating Tasks with Timer Shell: Tips and Tricks for Efficiency](https://www.freecodecamp.org/news/automating-tasks-with-timer-shell-tips-and-tricks-for-efficiency/)
+   Discover valuable tips and tricks for automating tasks with timer shell scripting. Topics include task scheduling, automatic script execution, and customizing scripts using command-line arguments.
+
+57. [Debugging Timer Shell Scripts: Common Issues and How to Fix Them](https://www.freecodecamp.org/news/debugging-timer-shell-scripts-common-issues-and-how-to-fix-them/)
+   Gain insight into debugging timer shell scripts when issues arise. Learn how to address common problems like syntax errors, logic errors, and runtime errors, with helpful tips for resolution.
+
+58. [Fork(), Exec(). and Vfork()](https://web.eecs.edu/~mbeck/classes/Fall21-cs361/vfork.pdf)
+   Explore concise notes on memory operations involving fork(), exec(), and vfork().
+
+## WEEK07
+
+59. [Exit Vi Editor Without Saving Changes](https://phoenixnap.com/kb/how-to-vim-save-quit-exit) <br>
+Learn how to exit the Vi/Vim editor without saving changes. This method is useful for correcting errors made while copying and pasting text into a file.
+
+60. [Renaming Files in Linux](https://www.hostinger.co.id/tutorial/rename-file-linux)<br>
+Ensure your file is appropriately named before submitting tasks to zzzSHARE. Follow this guide to rename your file, meeting the required specifications.
+
+61. [Discard Local Changes in GitHub](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/remove-revert-discard-local-uncommitted-changes-Git-how-to#:~:text=The%20commands%20to%20discard%20all,git%20clean%20%2Dfxd)<br>
+Undo mistakes made during task execution by discarding local changes. This process removes all modifications, restoring the data to its previous state.
+
+62. [Understanding Deadlock in Operating Systems](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Explore a concise explanation of deadlock in operating systems through this Geeksforgeeks resource. The analogy of trains is used to elucidate the concept, offering a clear understanding.
+
+2. [Introduction to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Similar to the deadlock explanation, Geeksforgeeks provides a comprehensive introduction to process synchronization. The cooperative sharing of resources in processes can lead to synchronization issues, and this article sheds light on the subject.
+
+63. [Process Synchronization & Deadlock Overview](https://generalnote.com/Computer-Fundamental/Operation-System/Process-Synchronization.php)<br>
+Get a quick grasp of process synchronization and deadlock concepts in under 5 minutes. While shorter than the previous resources, this site offers a simple explanation of synchronization and deadlock, making it a swift read.
