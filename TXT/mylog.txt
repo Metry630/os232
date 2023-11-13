@@ -56,6 +56,15 @@ ZCZC W06 10 L12 Assignment #02
 ZCZC W06 60 L13 Assignment #03
 ZCZC W06 45 L14 Assignment #04
 ZCZC W06 300 L09 PBP, MPPI, and other tasks
-
+ZCZC W07 50 L11 Assignment #01
+ZCZC W07 15 L12 Assignment #02
+ZCZC W07 120 L13 Assignment #03
+ZCZC W07 30 L14 Assignment #04
+ZCZC W07 120 L70 Preparing for PBP lab
+ZCZC W07 270 L88 Going to the gym and swimming
+ZCZC W07 60 L05 preparing for quiz
+ZCZC W07 20 L41 filling mylog.txt over the week
+ZCZC W07 3200 L84 sleeping and napping
+ZCZC W07 100 L86 cleaning my room
 
 
