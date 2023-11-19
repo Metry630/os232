@@ -66,5 +66,7 @@ ZCZC W07 60 L05 preparing for quiz
 ZCZC W07 20 L41 filling mylog.txt over the week
 ZCZC W07 3200 L84 sleeping and napping
 ZCZC W07 100 L86 cleaning my room
-
-
+ZCZC W08 10 L11 Assignment #01
+ZCZC W08 10 L12 Assignment #02
+ZCZC W08 300 L13 Assignment #03
+ZCZC W08 45 L14 Assignment #04
